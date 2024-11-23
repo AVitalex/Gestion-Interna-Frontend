@@ -15,7 +15,7 @@ RUN npm install
 COPY . .
 
 # Expose the port the app runs on (default for React dev server is 3000)
-EXPOSE 3000
+EXPOSE 3003
 EXPOSE 8080
 
 # Command to start the app
