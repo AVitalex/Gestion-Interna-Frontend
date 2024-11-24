@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:8080';
+const API_URL = 'http://52.21.190.163:8080';
 
 const fetchTipoReclamos = async () => {
   try {
